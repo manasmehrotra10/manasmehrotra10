@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-  - [CompTIA A+](http://medium.com/@manasmehrotra10/setting-up-a-home-lab-with-active-directory-tutorial-using-oracle-virtualbox-powershell-a9c1dee5de1a)
+  - [CompTIA A+](https://jpgmedia.ca/wp-content/uploads/2024/06/CompTIA-A-ce-certificate.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
