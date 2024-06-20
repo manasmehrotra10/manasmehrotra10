@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab - Tutorial](http://medium.com/@manasmehrotra10/setting-up-a-home-lab-with-active-directory-tutorial-using-oracle-virtualbox-powershell-a9c1dee5de1a)
+  - [Microsoft Azure - Backup Solution for Remote Employees](https://youtu.be/4HYfXJBQ2mM)
 
 <h2>👨‍💻 Certifications:</h2>
 
